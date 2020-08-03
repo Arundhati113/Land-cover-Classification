@@ -1,7 +1,7 @@
 # Intelligent Analysis on Satellite Imagery: Land Cover Classification
 ## Problem statement:
 Analyzing the unsupervised learning techniques to identify clusters of an image & then
-comparing the algorithms to check which algorithms obtain the best results.
+comparing the algorithms to check which algorithms obtain the best results.Then using RESNET 50 architecture for the land cover classification.
 
 ## Results
 Tried to implement the unsupervised learning algorithms like SOM, DBSCAN, Fuzzy C-means in google colab,
