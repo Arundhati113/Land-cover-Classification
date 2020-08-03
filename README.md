@@ -1,5 +1,4 @@
-# Land-cover-Classification
-Intelligent Analysis on Satellite Imagery:Land Cover Classification
+# Intelligent Analysis on Satellite Imagery: Land Cover Classification
 
 Tried to implement the unsupervised learning algorithms like SOM, DBSCAN, Fuzzy C-means in google colab,
 you can view our implementation here:
