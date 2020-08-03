@@ -1,7 +1,11 @@
 # Intelligent Analysis on Satellite Imagery: Land Cover Classification
+## Problem statement:
+Analyzing the unsupervised learning techniques to identify clusters of an image & then
+comparing the algorithms to check which algorithms obtain the best results.
 
+## Results
 Tried to implement the unsupervised learning algorithms like SOM, DBSCAN, Fuzzy C-means in google colab,
-you can view our implementation here:
+you can view the results here:
 
 https://colab.research.google.com/drive/1FcA5cUKTGVHdwY_aE5cGXnljDnfqZCrH?usp=sharing#scrollTo=z6i6pxmWBw74
 
